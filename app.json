@@ -1,16 +1,16 @@
 {
     "name": "UNLIMITED FILTER BOT",
     "description": "An unlimited filter bot using Mongo DB",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.jpg",
+    "logo": "https://telegra.ph/file/5544537e87a05e0785147.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
         "MoTechYT"
     ],
-    "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MRK-YT/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/Mo_Tech_YT",
+    "website": "https://github.com/DarkAngel1234-tech",
+    "repository": "https://github.com/DarkAngel1234-tech/Unlimited-Filter-Bot",
+    "success_url": "https://telegram.dog/DARK_ANGEL_1234",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
