@@ -1,23 +1,23 @@
 class Script(object):
 
-    START_MSG = """<b>Hi🙋‍♀️ {},
+    START_MSG = """<b>Hi👋 {},
 
-ഞാനൊരു advanced filter bot ആണ് 😇!
-എനിക്ക് Limit ഇല്ലാതെ Filter ചെയ്യാൻ കഴിയും :)
+ഞാനൊരു advanced filter bot ആണ് 🖤
+എനിക്ക് Limit ഇല്ലാതെ Filter ചെയ്യാൻ കഴിയും.
 
 See <i>/help</i> for commands and more details.</b>
 """
 
 
     HELP_MSG = """
-<i>എന്നെയാദ്യം ഗ്രൂപ്പിൽ ആഡ് ചെയ്യെടെയ്😁 എന്നിട്ട് തുടങ്ങ് filtering :)</i>
+<i>Hey Buddy</i>
 
 
 <b>Basic Commands;</b>
 
-/start - ഞാൻ ജീവനോടെ ഉണ്ടോ🙄!
-/help - സഹായം ആവശ്യമുണ്ടോ🤷‍♀️
-/about - എന്നെക്കുറിച്ചറിയാൻ😁!
+/start - Alive!
+/help - Help!
+/about - About Me!
 
 
 <b>Filter Commands;</b>
@@ -48,13 +48,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b><i><a href="https://t.me/DARK_ANGEL_1234">DARK_ANGEL</a></i></b>
+<b><i><a href="https://t.me/DARK_ANGEL_1234_BOT">DARK_ANGEL</a></i></b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : Dark Unlimited Filter Bot</b>
 
-⭕️<b>Creater :</b> <b><i><a href="https://t.me/DARK_ANGEL_1234">DARK_ANGEL</a></i></b>    
+⭕️<b>Creater :</b> <b><i><a href="https://t.me/DARK_ANGEL_1234_BOT">DARK_ANGEL</a></i></b>    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
