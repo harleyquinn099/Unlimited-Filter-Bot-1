@@ -30,14 +30,14 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                   InlineKeyboardButton("𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙷𝚎𝚕𝚙", callback_data="help_data")
+                   InlineKeyboardButton("Command Help", callback_data="help_data")
                 ],
                 [
-                   InlineKeyboardButton("Group👥", url="https://t.me/Series_wrd"),
-                   InlineKeyboardButton("🔊Channel", url="https://t.me/DaRK_iNFO_CHaNNeL")
+                   InlineKeyboardButton("🖤Fᴀɴᴛᴀꜱʏ-Mᴏᴠɪᴇꜱ🖤", url="https://t.me/Fantasy_Movies"),
+                   InlineKeyboardButton("🖤Fᴀɴᴛᴀsʏ-Sᴇʀɪᴇs🖤", url="https://t.me/Fantasy_Seriesz")
                 ],
                 [
-                   InlineKeyboardButton("❣️𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝚂𝚞𝚙𝚙𝚘𝚛𝚝❣️", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
+                   InlineKeyboardButton("🖤Fᴀɴᴛᴀsʏ-Wᴏʀʟᴅ🖤", url="https://t.me/Fantasy_Worldz")
                 ]
             ]
         )
@@ -54,11 +54,11 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Group👥", url="https://t.me/Series_wrd"),
-                    InlineKeyboardButton("About Me👨‍💼", callback_data="about_data")
+                    InlineKeyboardButton("🖤Iɴғᴏ-Cᕼᴀɴɴᴇʟ🖤", url="https://t.me/DaRK_iNFO_CHaNNeL"),
+                    InlineKeyboardButton("🖤Aʙᴏᴜᴛ-Mᴇ🖤", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🖥️ 𝙷𝚘𝚠 𝚝𝚘 𝙳𝚎𝚙𝚕𝚘𝚢 🖥️", url="https://youtu.be/KrpqqNNLUSU")
+                    InlineKeyboardButton("🖤Fᴀɴᴛᴀsʏ-Wᴏʀʟᴅ🖤", url="https://t.me/Fantasy_Worldz")
                 ]
             ]
         )
@@ -76,11 +76,11 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "⛓️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ⛓️", url="https://github.com/MRK-YT/Unlimited-Filter-Bot")
+                        "🖤Mᴀsᴛᴇʀ🖤", url="https://t.me/DARK_ANGEL_1234_BOT")
                 ],
                 [
-                    InlineKeyboardButton("🔙 𝙱𝚊𝚌𝚔", callback_data="help_data"),
-                    InlineKeyboardButton("𝙲𝚕𝚘𝚜𝚎 🔐", callback_data="close_data"),
+                    InlineKeyboardButton("🔙 Back", callback_data="help_data"),
+                    InlineKeyboardButton("Close 🔐", callback_data="close_data"),
                 ]                
             ]
         )
