@@ -2,15 +2,15 @@ class Script(object):
 
     START_MSG = """<b>Hi👋 {},
 
-ഞാനൊരു advanced filter bot ആണ് 🖤
+ഞാനൊരു Advanced Filter Bot ആണ്.
 എനിക്ക് Limit ഇല്ലാതെ Filter ചെയ്യാൻ കഴിയും.
 
-See <i>/help</i> for commands and more details.</b>
+See <i>/help</i> For Commands And More Details.</b>
 """
 
 
     HELP_MSG = """
-<i>Hey Buddy</i>
+<i>🖤 Hey Buddy 🖤</i>
 
 
 <b>Basic Commands;</b>
@@ -54,7 +54,7 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name : Dark Unlimited Filter Bot</b>
 
-⭕️<b>Creater :</b> <b><i><a href="https://t.me/DARK_ANGEL_1234_BOT">DARK_ANGEL</a></i></b>    
+⭕️<b>Creator :</b> <b><i><a href="https://t.me/DARK_ANGEL_1234_BOT">DARK_ANGEL</a></i></b>    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
