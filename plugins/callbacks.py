@@ -30,7 +30,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                   InlineKeyboardButton("Command Help", callback_data="help_data")
+                   InlineKeyboardButton("🖤Cᴏᴍᴍᴀɴᴅ-Hᴇʟᴘ🖤", callback_data="help_data")
                 ],
                 [
                    InlineKeyboardButton("🖤Fᴀɴᴛᴀꜱʏ-Mᴏᴠɪᴇꜱ🖤", url="https://t.me/Fantasy_Movies"),
@@ -54,11 +54,11 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🖤Iɴғᴏ-Cᕼᴀɴɴᴇʟ🖤", url="https://t.me/DaRK_iNFO_CHaNNeL"),
-                    InlineKeyboardButton("🖤Aʙᴏᴜᴛ-Mᴇ🖤", callback_data="about_data")
+                    InlineKeyboardButton("🖤INFO-CHANNEL🖤", url="https://t.me/DaRK_iNFO_CHaNNeL"),
+                    InlineKeyboardButton("🖤ABOUT-ME🖤", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🖤Fᴀɴᴛᴀsʏ-Wᴏʀʟᴅ🖤", url="https://t.me/Fantasy_Worldz")
+                    InlineKeyboardButton("🖤FANTASY-WORLD🖤", url="https://t.me/Fantasy_Worldz")
                 ]
             ]
         )
