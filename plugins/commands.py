@@ -217,14 +217,14 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                   InlineKeyboardButton("🖤Cᴏᴍᴍᴀɴᴅ-Hᴇʟᴘ🖤", callback_data="help_data")
+                   InlineKeyboardButton("🖤Cᴏᴍᴍᴀɴᴅ Hᴇʟᴘ🖤", callback_data="help_data")
                 ],
                 [
-                   InlineKeyboardButton("🖤Fᴀɴᴛᴀꜱʏ-Mᴏᴠɪᴇꜱ🖤", url="https://t.me/Fantasy_Movies"),
-                   InlineKeyboardButton("🖤Fᴀɴᴛᴀsʏ-Sᴇʀɪᴇs🖤", url="https://t.me/Fantasy_Seriesz")
+                   InlineKeyboardButton("🖤ᴄʜᴀᴍɴᴇʟ🖤", url="https://t.me/unlimtedmovie00"),
+                   InlineKeyboardButton("🖤Sᴇʀɪʀs ᴄʜᴀɴɴᴇʟ🖤", url="https://t.me/seriesworld0999")
                 ],
                 [
-                   InlineKeyboardButton("🖤Fᴀɴᴛᴀsʏ-Wᴏʀʟᴅ🖤", url="https://t.me/Fantasy_Worldz")
+                   InlineKeyboardButton("🖤Gʀᴏᴜᴘ🖤", url="https://t.me/filmgallery0999")
                 ]
             ]
         ),
@@ -250,11 +250,11 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🖤INFO-CHANNEL🖤", url="https://t.me/DaRK_iNFO_CHaNNeL"),
+                    InlineKeyboardButton("🖤𝐇𝐀𝐏𝐏𝐘 𝐁𝐈𝐑𝐓𝐇𝐃𝐀𝐘🖤", url="https://t.me/happy"),
                     InlineKeyboardButton("🖤ABOUT-ME🖤", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🖤FANTASY-WORLD🖤", url="https://t.me/Fantasy_Worldz")
+                    InlineKeyboardButton("🖤ℱ𝒾𝓁𝓂 ℊ𝒶𝓁𝓁ℯ𝓇𝓎🖤", url="https://t.me/unlimtedmovie00")
                 ]
             ]
         ),
@@ -271,7 +271,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "🖤Mᴀsᴛᴇʀ🖤", url="https://t.me/DARK_ANGEL_1234_BOT")
+                        "🖤Mᴀsᴛᴇʀ🖤", url="https://t.me/uniunioo")
                 ],
                 [
                     InlineKeyboardButton("🔙 Back", callback_data="help_data"),
