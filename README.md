@@ -27,7 +27,7 @@
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkAngel1234-tech/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harleyquinn099/Unlimited-Filter-Bot-1)
 
 ### Features
 * Nearly unlimited filters
